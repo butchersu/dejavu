@@ -1,1 +1,1 @@
-FROM appbaseio/dejavu
+FROM appbaseio/dejavu:latest
